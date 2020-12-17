@@ -1,0 +1,132 @@
+.b{
+    		line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+    	
+    	.a{
+    		height: 383px;
+    	}
+
+    	.c{
+    		position: relative;
+    top: -315px;
+    	}
+
+    	.d{
+		background-color: #0000009c;
+	}
+
+    .e{
+        width: 100%;
+        margin-top: 100px;
+        margin-bottom: 50px;
+    }
+    .f{
+        width: 100%;
+        background-image: url(https://www.firstfiddle.in/assets/images/bannerabout.jpg);
+        padding-bottom: 90px;
+    }
+    .g{
+        
+        line-height: 40px;
+    letter-spacing: 1px;
+    color: white;
+    font-size: 15px;
+}
+    .h{
+        height: 200px;
+    padding: 10px;
+}
+
+.i{
+    width: 100%;
+    background-image: url(https://www.firstfiddle.in/assets/images/outletbanner.png);
+    padding-bottom: 90px;
+
+}
+.j{
+    background-color: black;
+}
+.k{
+    margin-top: 85px;
+    width: 55%;
+}
+.l{
+    font-family: 'prague';
+    font-size: 48px;
+    line-height: 50px;
+    letter-spacing: 3px;
+    color: #fff;
+}
+.m{
+    height: 585px;
+}
+
+.n{
+        width: 100%;
+        background-image: url(https://www.firstfiddle.in/assets/images/gamebanner.jpg);
+        padding-bottom: 90px;
+
+    }
+  .o{
+    width: 100%;
+  } 
+
+  .p{
+    border-style: solid;
+    border-width: thin;
+    border-color: #fbab29;
+}
+.q{
+    width: 350px;
+}
+.r{
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    
+}
+
+.t{
+   padding-top: 2%;
+    padding-left: 3%;
+}
+
+.u{
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.v{
+    width: 100%;
+    height:100%;
+}
+.w{
+    height: 500px;
+    width: 500px;
+    overflow: auto;
+}
+.bottom{
+    background-color: black;
+    width: 100%;
+}
+.x{
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    background-color: black;
+
+}
+.y{
+    padding: 50px;
+    font-size: 30px;
+}
+.z{
+    margin-left: 280px;
+    margin-top: -27px;
+}
+
+.gh{
+    color: white;
+}
+

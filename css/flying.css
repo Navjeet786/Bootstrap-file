@@ -1,0 +1,248 @@
+.a{
+            max-width: 100%;
+    height: auto;
+
+        }
+        .flames{
+            width: 60px!important;
+
+        }
+        .z{
+            color: #e83d3a;
+        }
+       body{
+        background-color: #f1f1f1;
+
+       }
+       button{
+        text-transform: none;
+        padding-top: 12px;
+       }
+       .folk{
+        width: 36px;
+       }
+       h5{
+        font-size: 1.25rem;
+       }
+       .img{
+        width: 100%;
+       }
+       .ab{
+        background-color: black;
+        padding: 25px;
+       }
+       .p{
+        text-align: center;
+    line-height: 24px;
+    font-size: 17.5px!important;
+    font-family: Montserrat,sans-serif!important;
+    color: white;
+}
+.icon{
+    width: 32%;
+}
+.paragraph{
+    text-align: center;
+    line-height: 24px;
+    font-size: 16.5px!important;
+    font-family: Montserrat,sans-serif!important;
+}
+
+.d{
+    width: 85%;
+    margin: 2px 15px;
+    height: auto;
+    padding: .75rem .25rem;
+}
+.rajat{
+    width: 10%;
+}
+
+.pd{padding: 3rem!important;
+}
+.mt{
+    margin-top: .25rem!important;
+}
+
+.pd1{padding: 3rem!important;
+}
+.mt1{
+    margin-top: 1rem!important;
+}
+.form-control{
+    width: 50%;
+    height: 52px;
+    background-color: transparent;
+    text-align: center;
+    margin-left: 40px;
+}
+.btn1{
+    width: 33%;
+    height: 52px;
+    padding: 13px 4px!important;
+    background-color: #e83d3a;
+    color: #fff!important;
+    position: absolute;
+    top: 48px;
+    right: 9%;
+}
+
+.e{
+        background-color: #0000009c;
+    }
+.logo{
+    width: 15%;
+    height: auto;
+    
+}
+
+
+.banner{
+    background-image: url(https://www.theflyingsaucercafe.in/assets/images/banner.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    height: auto;
+    text-align: center;
+    margin-top: -94px
+}
+.mainimg{
+    padding: 12% 10px;
+}
+.btn2{
+    background-color: #e83d3a;
+    color: #fff!important;
+    text-transform: uppercase;
+    border-color: #e83d3a!important;
+    margin-top: 1rem!important;
+
+}
+.nav-link{
+    font-weight: 400;
+    color: #fff!important;
+    font-size: 20px;
+    background-color: #e833a!important;
+   }
+.navbar-nav{
+    background-color: #0e0602ba;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+}
+.nav1{
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+
+}
+.banner1{
+    padding: 12%;
+    width: 100%;
+    background-size: cover;
+    background-image: url(https://www.theflyingsaucercafe.in/assets/images/contact-banner.jpg);
+    margin-top: -95px;
+
+}
+.pd3{
+padding: 1rem!important;
+}
+.m3{
+    margin-bottom: 1rem!important;
+}
+
+.about{
+    background-image: url(https://www.theflyingsaucercafe.in/assets/images/Menu-banner-bg.jpg);
+    position: relative;
+    top: -160px;
+    box-shadow: 0 1px 6px 6px #ffffff1a;
+    margin-bottom: -150px;
+    width: 100%;
+    background-size: cover;
+    padding: 9%;
+    opacity: .96;
+    background-repeat: no-repeat;
+    margin-top: 148px;
+}
+
+
+.con{
+    background-color: #e5e5e5;
+}
+.p1{
+    text-align: left;
+    text-align: justify-all;
+    padding: 10px;
+}
+.img1{
+    width: 100%;
+    height: 463px;
+}
+.w{
+    padding-top: 3rem!important;
+
+
+    padding-bottom: 1.5rem!important;
+}
+.logo1{
+    width: 8%;
+    height: auto;
+}
+.banner2{
+    background-image: url(https://www.theflyingsaucercafe.in/assets/images/menu-banner.jpg);
+    position: relative;
+    box-shadow: 0 1px 6px 6px #ffffff1a;
+    top: -140px;
+    margin-bottom: -150px;
+    width: 100%;
+    background-size: cover;
+    padding: 18%;
+    background-repeat: no-repeat;
+}
+.flames1{
+            width: 60px!important;
+            background-color: white;
+
+        }
+.nav2{
+    display: block;
+    flex-wrap: wrap;
+    padding-left: 0;
+    list-style: none;
+    text-align: center;
+    margin: 5% 25%;
+    width: 50%;
+
+}
+.nav-pills{
+    background-color: #ff230085;
+}
+.img2{
+    width: 60%;
+}
+
+.banner3{
+    background-image: url(https://www.theflyingsaucercafe.in/assets/images/contact-banner-bg@2x-min.png);
+    padding-top: 24%;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    
+}
+
+.nav-pills1{
+    
+    background-color: #e83d3a;
+}
+
+.nav-pills2{
+    
+    background-color: black;
+
+}
+
+.z1{
+    color: black;
+}

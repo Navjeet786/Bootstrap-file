@@ -1,0 +1,26 @@
+.a{
+	color: blue;
+}
+.b{
+	color: red;
+}
+.c{
+	color: yellow;
+
+
+}
+
+body{
+	background: url(../image/s/banner3.jpg);
+}
+
+h1{
+	color: #009df2;
+	 font-size: xxx-large;
+}
+img{
+	width: 75%;
+    margin-left: 39px; 
+    height: 205px
+}
+
