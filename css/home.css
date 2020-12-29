@@ -1,0 +1,173 @@
+.d{
+    background-color: black;
+}
+
+.aa{
+    color: black;
+}
+
+
+.nav-link{
+    font-weight: 400;
+    color: black!important;
+    font-size: 20px;
+    background-color: #e833a!important;
+
+
+   }
+.navbar-nav{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.nav1{
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+
+}
+
+.logo{
+    width: 15%;
+    height: auto;
+    
+}
+
+
+@media(max-width:700px)
+{
+    .mob-view{
+        background-color: yellow;
+
+    }
+    .a{
+        
+    }
+
+    .nav-link{
+        color: black!important;
+    }
+}
+
+
+
+.banner{
+    background-image:url(../image/project/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    text-align: left;
+
+
+}
+
+.bncn{
+    color: #fff!important;
+    font-size: 60px;
+}
+
+h1{
+    font-family: 'Abril Fatface', cursive;
+}
+
+
+.q{
+    color: #c6c5c1;}
+
+
+.w{
+    background-color: black;
+}
+
+*{
+margin: 0px;
+padding: 0px;
+
+}
+
+.h{
+    width: 100%;
+    height: 100%;
+}
+
+.i{
+    background-image: url(../image/project/6.jpg);
+    width: 100%;
+}
+
+   
+.i1{
+    background-image: url(../image/project/7.jpg);
+    width: 100%;
+}
+
+.i2{
+    background-image: url(image/project/6.jpg);
+    width: 100%;
+}
+
+.i3{
+    background-image: url(image/project/6.jpg);
+    width: 100%;
+}
+
+.i4{
+    width: 15%;
+}
+
+.banner1{
+    background-image:url(../image/project/14.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    text-align: left;
+
+
+}
+
+.banner2{
+    background-image:url(../image/project/19.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    text-align: left;
+
+
+}
+
+.banner3{
+    background-image:url(../image/project/20.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    text-align: left;
+
+
+}
+
+.b1{
+            line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+        
+        .a1{
+            height: 383px;
+        }
+.banner4{
+    background-image:url(../image/project/6.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    text-align: left;
+
+
+}

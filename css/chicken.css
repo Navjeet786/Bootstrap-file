@@ -1,0 +1,76 @@
+.logo{
+    width: 15%;
+    height: auto;
+    
+}
+
+.nav-link{
+    font-weight: 400;
+    color: #fff!important;
+    font-size: 20px;
+    background-color: #e833a!important;
+   }
+.navbar-nav{
+    background-color: #0e0602ba;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.nav1{
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+
+}
+
+.mob-logo{
+  display: none;
+  width: 20%;
+  height: auto;
+}
+
+
+@media(max-width:500px)
+{
+
+   .web-logo{
+	display: none;
+	margin-left: 110px;
+   }
+
+   .mob-logo{
+	display:block;
+   }
+   .a{
+   	background-color: black;
+   }
+
+   .i1{
+   	width: 32%;
+   }
+
+}
+
+
+
+.web-logo{
+	width: 21%;
+	height: auto;
+	
+}
+
+.banner{
+	width: 100%;
+	height: auto;
+	background-image: url(../image/chicken/9.jpg);
+	  background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin-top: -94px;
+}
+
+.mainimg{
+    padding: 12% 10px;
+}

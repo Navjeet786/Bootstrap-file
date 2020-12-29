@@ -8,10 +8,7 @@
     		height: 383px;
     	}
 
-    	.c{
-    		position: relative;
-    top: -315px;
-    	}
+ 
 
     	.d{
 		background-color: #0000009c;
@@ -128,5 +125,20 @@
 
 .gh{
     color: white;
+}
+
+.mob_logo{
+    display: none;
+}
+
+@media(max-width:500px)
+{
+    .mob_logo{
+        display: block;
+    }
+
+    .web_logo{
+        display: none;
+    }
 }
 
